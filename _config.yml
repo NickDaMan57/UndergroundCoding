@@ -8,7 +8,7 @@
 # Site settings
 title: UndergroundCoding
 brief-intro: Coding projects with intent to rule the world.
-baseurl: "/UndergroundCoding" # the subpath of your site, e.g. /blog
+baseurl: /UndergroundCoding # the subpath of your site, e.g. /blog
 url: "https://nickdaman57.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
