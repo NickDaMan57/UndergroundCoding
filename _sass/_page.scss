@@ -18,7 +18,7 @@
         padding: 20px 30px;
         line-height: 1.6;
         font-size: 16px;
-        background-color: #f8f8fd;
+        background-color: #f8fdfd;
         box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
         >h1 {
             margin-bottom: -10px;
@@ -29,21 +29,21 @@
         ul {
             >h2 {
                 margin-left: -40px;
-                color: #6a6b6b;
+                color: #00bb00;
             }
             li {
                 line-height: 1.8;
-                color: #888888;
+                color: #00ee00;
                 time {
                     display: inline-block;
                     width: 135px;
                 }
                 .title {
                     font-weight: bold;
-                    color: #223253;
+                    color: #00aa00;
                     transition: 0.3s ease;
                     &:hover {
-                        color: #4d6dad;
+                        color: #00cc00;
                     }
                 }
                 i {
@@ -52,34 +52,34 @@
                 .categories {
                     padding: 0 15px;
                     i {
-                        color: #9e9d9d;
+                        color: #8feaad;
                     }
                     a {
                         padding: 0 5px;
-                        background-color: #9e9d9d;
+                        background-color: #8feaad;
                         color: #fff;
                         font-size: 90%;
                         transition: 0.3s ease;
                         &:hover {
-                            background-color: #b6b6b9;
+                            background-color: #53e283;
                         }
                     }
                 }
                 .pageTag {
                     i {
-                        color: #c6cbe9;
+                        color: #8feaad;
                     }
                     a {
 
                         // border: 1px solid #aaa;
                         padding: 0 5px;
-                        background-color: #c6cbe9;
+                        background-color: #8feaad;
                         border-radius: 4px;
                         color: #fff;
                         font-size: 90%;
                         transition: 0.3s ease;
                         &:hover {
-                            background-color: #c0ddc7;
+                            background-color: #53e283;
                         }
                     }
                 }
@@ -124,10 +124,10 @@
                 font-weight: bold;
             }
             a {
-                color: #4d6dad;
+                color: #64b53b;
                 transition: 0.5s ease;
                 &:hover {
-                    color: #223253;
+                    color: #64d12e;
                 }
             }
         }
