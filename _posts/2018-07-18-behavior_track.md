@@ -16,7 +16,7 @@ This app will be gradual in its development, as I set out to learn the intricaci
 
 
 
-## Final Version
+>## Final Version
 The program, in its entirety, will have the following functions and features:
 
 1. User-defined behavior creation will be saved to a database, either local or remote, as per user's choice.
