@@ -3,7 +3,12 @@ layout: post
 title:  "Behavior Track"
 date:   2018-07-18 00:00:00
 categories: Android-Dev
-tags: Android Java
+
+excerpt: I am attempting to build an Android app to help users log and keep track of their behaviors. The goal of this app is to help people who wish to instill or eradicate certain behaviors from their life.
+
+This app will be gradual in its development, as I set out to learn the intricacies of Android development through modular programming. This means that I will attempt to add one functionality at a time, as I learn how to implement said functionality.
+! 
+tags: NewProject
 ---
 
 # Behavior Track
